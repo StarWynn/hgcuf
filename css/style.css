@@ -1,0 +1,44 @@
+
+body{
+    background-color: darkcyan;
+}
+form{
+
+    background-color: lightblue
+    ;
+    width: 50%;
+    margin: auto;
+    border-radius: 10px;
+}
+fieldset{
+    text-align: center;
+    border-radius: 10px;
+}
+input{
+    text-align: center;
+    border-radius: 10px;
+    background-color: aqua;
+    width: 50%;
+}
+input::placeholder{
+    color: black;
+}
+a{
+    border: 2px solid black;
+    border-radius: 10px;
+    text-decoration: none;
+    color: gray;
+    transition:0.8s;
+}
+a:hover{
+    background-color: aqua;
+}
+.a1{
+    padding: 0px 10px;
+}
+.a0{
+    padding: 0px 43px;
+}
+.a2{
+    padding: 0px 18px;
+}
